@@ -119,28 +119,6 @@ public class CollectorsConcept {
 		System.out.println(s.getMin());
 		System.out.println(s.getCount());
 		System.out.println(s.getAverage());
-		
-		System.out.println();
-		
-		Collectors.groupingBy(Student::getSubject);
-		Collectors.groupingBy(Stud::getName);
-		//Collectors.groupingBy(Stud::getMark);
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
 
 	}
 
